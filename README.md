@@ -2,6 +2,8 @@
 
 A WebGPU-powered particle life simulation that demonstrates emergent behavior from simple rules.
 
+**[Live Demo → life.hzy.im](https://life.hzy.im)**
+
 ![Particle Life Demo](./screenshots/demo.png)
 
 ## What is Particle Life?
